@@ -1,0 +1,178 @@
+/*SEÇÃO PARA O CÓDIGO TODO*/
+body{
+	margin:0px;
+	padding:0px;
+	text-align: center;
+	background-color: #B2E6FC;
+	background-image: url("../imagens/background/background10.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.conteudo{
+	margin: 0px 9%;
+	background-color: rgba(255, 255, 255, 0.6);
+	border-radius: 30px;
+	margin-top:  -20px;
+}
+#logoAndText{
+	width: 100%;
+}
+header {
+	margin: 10px 5px;
+	width:  100%;
+	height: 100px;
+	float: right;
+}
+h1{
+	margin-top: 0 
+	margin-bottom: 30px;
+	font-size: 50px;
+	float: left;
+	margin-left: 45%;
+}
+#imagens{
+	width:  100%;
+}
+#imagens img{
+	height: 225px;
+	width:  300px;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+#formattexto{
+	font-family: arial;
+	text-align: center;
+	font-weight: bold;
+}
+#tamanhoTexto{
+	margin-bottom: 55px;
+}
+#logoAndText img{
+	width: 290px;
+	height: 140px;
+	margin: 0px 0px 60px;
+}
+.margemparabaixo{
+	margin-bottom: 100px;
+}
+#imagemPadrao img{
+	height: 400px;
+	width:  550px;
+	border: 2px solid black;
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 20px;
+}
+#voltar a{
+	text-decoration: none;
+	color: black;
+	border-radius: 20px;
+	padding: 3px;
+	font-weight: bold;
+}
+#voltar a:hover{
+	color: white;
+	background-color: black;
+	transition: background-color 1s;
+}
+/*============================*/
+
+/*SEÇÃO PARA A PÁGINA INDEX*/
+#subtext{
+	margin-top: 0px;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menuIndex a{
+	margin: 5px;
+	color: black;
+	text-decoration: none;
+	border-radius: 20px;
+	padding: 2px;
+}
+#menuIndex a:hover{
+	background-color: black;
+	color:white;
+	transition: background-color 1s;
+}
+#menuIndex {
+	width: 25%;
+	margin-left: 37%;
+	margin-top: 10px;
+	height: 20px;
+	background-color: #F7FCFE;
+	border-radius: 30px;
+}
+#rodapepaginicial{
+	background-color: #F7FCFE;
+	border-radius: 30px;
+}
+#cadastro{
+	text-align: left;
+	margin-left: 90px;
+}
+/*============================*/
+
+/*SEÇÃO PARA A PÁGINA CONTATOS*/
+#contato{
+	width:  100%;
+}
+#contatos{
+	margin-top: 0px;
+	margin-bottom: 55px;
+	width: 50%;
+	margin-left: 25%;
+	background-color: #F7FCFE;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 30px;
+}
+/*============================*/
+
+/*SEÇÃO PARA A PÁGINA LUGARES*/
+#lugares{
+	width: 50%;
+	margin-left: 25%; 
+	background-color: #F7FCFE;
+	border-radius: 30px;
+}
+#lugares a{
+	text-align: center;
+	margin-left: 8px;
+}
+#cabecalhopacotes{
+	width:  100%;
+}
+#cabecalhopacotes #lugares a{
+	text-decoration: none;
+	border-radius: 20px;
+	padding: 3px;
+}
+#lugares a{
+	color: black;
+}
+#lugares a:hover{
+	background-color: black;
+	color: white;
+	transition: background-color 1s; 
+}
+#secao_Text_Img_Pacotes{
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+	float: left;
+}
+#tamanhoTexto{
+	height: 400px;
+}
+/*=============================*/
+
+/*SEÇÃO PARA A PÁGINA BAHIA*/
+#textoBahia{
+	height: 400px;
+}
+/*=========================*/
+
